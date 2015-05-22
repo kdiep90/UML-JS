@@ -1,0 +1,102 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+#profile-image{
+	display: block;
+	height:180px;
+    margin: 0 auto;
+	width:240px;
+}
+
+.center-image{
+	display: block;
+	margin: 0 auto;
+}
+
+.center-text{
+	text-align:center;
+}
+
+.container{
+	background: #FFF;
+	border:1px solid black;
+	height:1100px;
+	margin:0;
+	padding:0;
+	width:100%;
+}
+
+.content{
+	background: #d3d3d3;
+	border: 2px solid #d6d0c3;
+	height:100%;
+	margin: 0 15%;
+}
+
+h2, h3, p{
+	margin: 10px 25px;
+}
+
+header{
+	background:#2F4F4F;
+	height:75px;
+	margin:0;
+	padding:0;
+	text-align:center;
+	width:100%;
+}
+
+.list-no-style{
+	list-style:none;
+}
+
+nav{
+	bottom: -31px;
+	display: block;
+	margin: 0 10%;
+	position: relative;
+	width:80%;
+}
+
+nav a{
+	background: #FFF;
+	border: 1px solid #d6d0c3;
+	border-radius:5px;
+	color:black;
+	text-decoration: none;
+	padding: 10px 10px;
+	margin: 0 3px 10px 3px;
+	width:75px;
+}
+
+nav a:visited{
+	background: #FFF;
+	color:black;
+	text-decoration: none;
+}
+
+nav a:hover{
+	background: #d3d3d3;
+	color:white;
+	text-decoration: underline;
+}
+
+table{
+	border:2px solid black;
+	margin: 0 auto;
+	text-align:center;
+}
+
+table td,th,tr{
+	border:1px solid black;
+}
+
+ul{
+	list-style: none;
+}
+
+ul li{
+	padding: 15px 0px;
+}

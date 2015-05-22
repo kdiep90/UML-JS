@@ -1,0 +1,52 @@
+Metaphysics
+
+Metaphysics is the study of being. The big questions usually include things like, "What is existence?", "What does it mean to exist?", "What makes something a thing?", "Where does onething stop and another thing start?", "What is time?", etc. These questions all deal with the existance, identity, and qualities of things and objects in the most general sense.
+
+Famous thought experiments:
+	Ship of Theseus
+	Suppose you have a ship made of wooden planks. Now suppose that over the years, each plank of wood was replaced by a new plank of wood to keep the ship fresh. Eventually all of the wooden planks are replaced and none of the original planks are still attached to the ship. Is it the same ship? At what point does it stop being the orignial ship? If it's possible that this final product is the same ship as the orignial, then suppose we then take all the orignial planks and put those together into another ship. What then?
+
+	Is Space Absolute or Relative?
+	In the days before Newtonian physics was widely accepted, Newton and another scientist/philosopher, Gottfried Leibniz, got into a heated disagreement over the nature of space. Newton argued that space was absolute and infinite. Space has always and will always exist and is something with concrete and measurable distance. How else is it that objects, such as us, and light can travel through it? Where else would objects be but "in" space? The dimensions (up/down, left/right, forward/backward) don't depend on the objects that we describe using these words. Leibniz argued, on the other hand, that space was relative. He believed that space is only measured in relation to existing objects. If we have one object, how are we to know what is up and down or left and right? Even if we have two objects, we only have the distance between them and can only describe the space around them in terms of the relationship between these two objects.
+
+Why it's important to think about:
+	While the subject itself is very esoteric/out of touch with anything people normally deal with in their daily lives, it does occasioally lead to remarkable discoveries about our world. Without the debate between Newton and Leibniz, for example, we would have never had Einstein's theory of relativity. Relativity merges and reconciles the theories of absolute and relative space: all measurements of space and time are relative to the observer, but space and time in general can be treated as one (absolute) thing and hence light will always have an absolute and finite speed. It goes without saying that relativity has had a massive impact on the kinds of technology we have available to us today, and all of that is thanks to a centuries-old metaphysics debate.
+
+
+Epistemology
+
+Epistemology is also known as the theory of knowledge. Epistemology typically deals with questions about what knowledge is, what criteria do we need to meet to be able to say that we have knowledge, and what needs to occur for knowledge to exist. Skepticism in this sense is not merely criticism of some idea or thing as it usually is when we talk about it in our daily lives. It is the wholesale doubt that we can know anything for reasons ranging from the denial of the existence of knowledge to the denial that people can have access to the truth about the world we live in.
+
+Famous thought experiments:
+	Descartes' Meditations
+	In Descartes' Meditations, he asks if there is anything that we can know for certain. The problem is that our senses have no guarantee of revealing the truth about the world to us, for I may see that an object is one color, when really it is another (like this url="http://www.nytimes.com/interactive/2015/02/28/science/white-or-blue-dress.html?_r=0"). I might be in a dream and not know it, or there could be a malevolent being feeding these images, sounds, and other sensations to my brain that I am unaware of. What do I know then (hint: I am thinking)?
+
+	
+
+Why it's important to think about:
+	Without the questioning of what knowledge is, we would not have the scientific method. Hume, the British Empiricist whose ideas eventually led to the development of the scientific method argued that we cannot know of causation because our senses are not guaranteed to tell us everything about the world. We may observe a cause and effect, but for all we know the event we think of as the effect is merely coincidental to the event we think is the cause. We can only point out patterns that we observe in the world since the assumptions we make about our senses may not always be the case. In a more relevant and contemporary example, how we think about knowledge is essential to how we act as citizens of the U.S. When the Bush administration stated that it had "actionable intel" on Saddam-Controlled Iraq, it was important for us as a nation to consider a) what constitutes actionable intel (knowledge we should act on) and b) what do we know about the government's willingness to be honest (government transparency). I cannot say if the Bush administration's actions were right or wrong, but I can say that we as a nation perhaps could have thought harder about the consequences before we acted.
+
+
+
+Logic
+
+The study of logic is the study of fundamental reasoning. When we reason out our assertions and our arguments, we (generally) use certain methods of thought to produce arguments that make sense and are true. Philosophical logic is the study of these methods. The most basic methods we use to organize our thinking are called logical connectives. They link each piece of our argument to each other in a way that makes sense. They are so basic that when we see them used properly, we thing, "oh, of course." The five basic truth-functional (or true/false binary based) logical connectives are the AND statement (also known as a conjunction, which means any addition or coupling), the OR statement (also known as a disjunction, which means as the word often means: either/or), the IF/THEN statement (also known as a conditional), the IF AND ONLY IF statement (or the biconditional, which is equivelent to "if A, then B AND if B, then A", as well as the equal statement, or A=B), and the NOT statement (also known as negation). 
+
+Truth Table Example Goes Here
+
+
+
+
+Ethics
+
+Ethics is in essence the study of right and wrong, but more generally it is the study of human interaction. The stereotypical questions asked are "What is right and wrong?" and "What does it mean to be good?". But in reality, the question that concerns most ethicists is "What is value?" Because of this, ethics is known in most academic circles as Value Theory. Topics of interest to ethicists include the definition of value, judgments, intentions, and consequences. Though the question of what is right and wrong may seem a simple question to approach, there is a vast collection of subfields in philosophy to discuss the nuances of the question. Ethics can be divided into three main categories (Metaethics: The study of the possibility of moral facts, Normative Ethics: the study of what exactly makes things right and wrong, and Applied Ethics: the study of how to apply definitions of right and wrong in specific real-life situations like business and medical care) and several related subfields (philosophy of action, responsibility, free will vs determinism, etc.).
+
+Famous thought experiments:
+	Trolley Problem
+	Suppose you are stuck on a runaway trolley. The trolley is barrelling towards five workers at the end of the tracks who won't see or hear you coming until it is too late. However, on the trolley, there is a lever you can pull to redirect the trolley onto a side track. Unfortunately, there is a worker on this track as well and there is no hope for them to escape should you turn down this track. Do you pull the lever?
+
+	Utility Monster
+	Suppose that people decided that the best way to run the world would be to maximize happiness. Now suppose that there is one person who is capable of infinite happiness and for whom it is easiest to maximize happiness. In order to maximize his or her happiness, however, everyone else of course needs to give up their happiness. Should this single person's happiness be maximized?
+
+Why it's important to think about:
+	The unavoidable fact of life is that we have to deal with other people every day. Having common values, or at least understanding each other's values and respecting them, is crucial to keeping everyone alive, well, and happy. We may not always be successful at our attempts to do the right thing, but at least trying to make the world a better place for everyone to live is better than doing nothing or only trying to making things worse for everyone. Keeping promises, paying our bills and loans, fulfilling contracts, following the law - all of these are ethical considerations we make on a regular basis.
