@@ -1,0 +1,66 @@
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="DHTML Big Project Miscellaneous Page">
+		<meta name="author" content="diep90@gmail.com">
+		<title>Form Confirmation
+		</title>
+		<link href="assets/css/bigproject.css" rel="stylesheet">
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.validate.min.js"></script>
+		<link href="assets/css/jquery-ui.min.css" rel="stylesheet">
+		<style>
+		#menu {
+		  float: left;
+		  margin-top: -20px;
+		  margin-left: 50px;
+		}
+		#menu > li {
+		  width: 10em;
+		  float: left;
+		}
+		.ui-menu .ui-menu {
+		  width: 10em;
+		}
+		</style>
+		<script src="assets/js/jquery-ui.min.js"></script>
+		<script>
+		$(document).ready(function() {
+		  $('#menu').menu({
+		  	  position: {
+		        my: 'center top',
+		        at: 'center bottom'
+		      }
+		  });
+		}); // end ready
+		</script>
+	</head>
+	<body>
+		<header>
+			<nav>
+				<ul id="menu">
+					<li><a href="home.html">Home</a></li>
+					<li><a href="#">Fields</a>
+						<ul>
+							<li><a href="metaphysics.html">Metaphysics</a></li>
+							<li><a href="epistemology.html">Epistemology</a></li>
+							<li><a href="logic.html">Logic</a></li>
+							<li><a href="ethics.html">Ethics</a></li>
+							<li><a href="other.html">Other Fields</a></li>
+						</ul>
+					</li>
+					<li><a href="resources.html">Resources</a></li>
+					<li><a href="contact.html">Contact Me</a></li>
+				</ul>
+			</nav>
+		</header>
+		<div class="container">
+			<div class="content">
+				<h1 class="center-text">Form Processed</h1>
+				<p class="center-text">Your form has been sent. I'll get back to you as soon as I can!</p>
+			</div>
+		</div>
+	</body>
+</html>
